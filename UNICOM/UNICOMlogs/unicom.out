@@ -1,0 +1,110 @@
+12-02-08 17:06:19 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productionConf.xml
+12-02-08 17:06:19 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+12-02-08 17:06:19 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+12-02-08 17:06:19 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+12-02-08 17:10:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+12-02-08 17:10:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+12-02-08 17:10:22 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+12-02-08 17:11:20 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+12-02-08 17:11:20 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+12-02-08 17:11:20 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+12-02-08 17:11:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productionConf.xml
+12-02-08 17:11:47 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+12-02-08 17:11:47 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+12-02-08 17:11:47 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+12-02-08 17:12:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productionConf.xml
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载网关配置  ********************
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 联通SMG地址:127.0.0.1
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 联通SMG端口:8802
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 源节点编号：3053141211
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 登陆用户名：1062836516
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 登陆密码：1062836516
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 网关配置完成  ********************
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+12-02-08 17:13:13 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productionConf.xml
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载网关配置  ********************
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 联通SMG地址:127.0.0.1
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 联通SMG端口:8802
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 源节点编号：3053141211
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 登陆用户名：1062836516
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 登陆密码：1062836516
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 网关配置完成  ********************
+
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+12-02-08 17:15:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+12-02-08 17:15:43 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:7787
+12-02-08 17:15:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+12-02-08 17:15:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+12-02-08 17:15:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+12-02-08 17:15:44 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=30531412112081715441}
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productionConf.xml
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载网关配置  ********************
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 联通SMG地址:127.0.0.1
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 联通SMG端口:8802
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 源节点编号：3053141211
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 登陆用户名：1062836516
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 登陆密码：1062836516
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 网关配置完成  ********************
+
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+12-02-08 17:16:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:7791
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=30531412112081716491}
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=30531412112081716492}
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=30531412112081716493}
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+12-02-08 17:16:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+12-02-08 17:17:20 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=30531412112081717204}
+12-02-08 17:17:20 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+12-02-08 17:17:20 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接

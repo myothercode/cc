@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Mon Aug 31 10:48:39 CST 2009
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=UNICOM.jar
+manifest.mergeall=true
+manifest.mainclass=com.tdt.main.Main
+manifest.file=<createnew>
+jarname.isextern=false
+onejar.expand=
+excludes=<po|UNICOM>~CVS/;<po|UNICOM>~ipconfig.dtd;<po|UNICOM>~productipconfig.xml
+includes=

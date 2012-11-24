@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><!--该dtd定义了短信接入程序向业务层转发 短信上行及状态报告时必须提供的参数-->
+<!ELEMENT gwsmip (message_header?,message_body)>
+<!ELEMENT message_header (command_id,sequence_number)>
+<!ELEMENT message_body (user_number,user_number_type,sp_number,message_coding,message_content,service_type,report_flag,linkid)>
+<!ELEMENT command_id (#PCDATA)>
+<!ELEMENT sequence_number (#PCDATA)>
+<!ELEMENT user_number (#PCDATA)>
+<!ELEMENT user_number_type (#PCDATA)>
+<!ELEMENT sp_number (#PCDATA)>
+<!ELEMENT message_coding (#PCDATA)>
+<!ELEMENT message_content (#PCDATA)>
+<!ELEMENT service_type (#PCDATA)>
+<!ELEMENT report_flag (#PCDATA)>
+<!ELEMENT linkid (#PCDATA)>

@@ -1,0 +1,53 @@
+09-08-24 15:12:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:5 】
+09-08-24 15:12:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-3等待任务
+09-08-24 15:12:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-24 15:12:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-24 15:12:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-24 15:12:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-1等待任务
+09-08-24 15:12:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+09-08-24 15:12:28 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:1524
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-1获得一个短信下发请求实例】
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-1与SMG建立连接
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-1发送SPBind命令】,{长度=61,类型= 1,序列=30531412118241512451}
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-1发送SPSubmit命令】,{长度=168,类型= 3,序列=30531412118241512452}
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-1 发送的MT请求成功递交到SMG 】
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-1等待任务
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-3等待任务
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-3获得一个短信下发请求实例】
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-3发送SPSubmit命令】,{长度=168,类型= 3,序列=30531412118241512453}
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-3 发送的MT请求成功递交到SMG 】
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-3等待任务
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-24 15:12:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-1等待任务
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted/211.97.178.212:48698
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-9收到SMG Bind命令】,{长度=61,类型= 1,序列=105315824151250871540015}
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:10628365
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:10628365
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-9发送SPBind_Resp命令】,{长度=29,类型= -2147483647,序列=105315824151250871540015}
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-9收到SMG Report命令】,{长度=64,类型= 5,序列=105315824151250871539996}
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Report命令
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - ReportType:0
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8613075364025
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - State:0
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - ErrorCode:0
+09-08-24 15:12:50 [INFO ] com.tdt.unicom.domains.ReportResp - 【Thread-9发送SPReport_Resp命令】,{长度=29,类型= -2147483643,序列=105315824151250871539996}
+09-08-24 15:13:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-9收到SMG Report命令】,{长度=64,类型= 5,序列=105315824151301871544540}
+09-08-24 15:13:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Report命令
+09-08-24 15:13:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - ReportType:0
+09-08-24 15:13:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8613075364025
+09-08-24 15:13:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - State:0
+09-08-24 15:13:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - ErrorCode:0
+09-08-24 15:13:01 [INFO ] com.tdt.unicom.domains.ReportResp - 【Thread-9发送SPReport_Resp命令】,{长度=29,类型= -2147483643,序列=105315824151301871544540}
+09-08-24 15:13:16 [INFO ] com.tdt.unicom.domains.Unbind - 【Timer-0发送SPUnbind命令】,{长度=20,类型= 2,序列=30531412118241513167}
+09-08-24 15:13:16 [INFO ] com.tdt.unicom.sgip.svr.SPSender - Timer-0 向SMG发送unbind命令
+09-08-24 15:13:16 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接

@@ -1,0 +1,46 @@
+09-08-19 18:03:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:5 】
+09-08-19 18:03:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-19 18:03:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-19 18:03:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-19 18:03:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-1等待任务
+09-08-19 18:03:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-3等待任务
+09-08-19 18:03:31 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+09-08-19 18:03:31 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+09-08-19 18:03:34 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:4452
+09-08-19 18:03:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+09-08-19 18:03:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-3　获得一个短信下发请求实例】
+09-08-19 18:03:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-1等待任务
+09-08-19 18:03:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-19 18:03:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-19 18:03:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-19 18:03:34 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-3发送SP 0x00000001命令】,{长度=61,类型= 1,序列=30531412118191803340}
+09-08-19 18:03:35 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-3发送SP 0x00000003命令】,{长度=168,类型= 3,序列=30531412118191803351}
+09-08-19 18:03:35 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-3 发送的MT请求成功递交到SMG 】
+09-08-19 18:03:35 [INFO ] com.tdt.unicom.domains.Unbind - 【MT-thread-3发送SP 0x00000002命令】,{长度=20,类型= 2,序列=30531412118191803352}
+09-08-19 18:03:35 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+09-08-19 18:03:35 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-3等待任务
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-3　获得一个短信下发请求实例】
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-1等待任务
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-1　获得一个短信下发请求实例】
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-3发送SP 0x00000001命令】,{长度=61,类型= 1,序列=30531412118191804043}
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-19 18:04:04 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-1发送SP 0x00000001命令】,{长度=61,类型= 1,序列=30531412118191804044}
+09-08-19 18:04:05 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-3发送SP 0x00000003命令】,{长度=168,类型= 3,序列=30531412118191804055}
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-2　获得一个短信下发请求实例】
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:2
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-4　获得一个短信下发请求实例】
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0　获得一个短信下发请求实例】
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-2发送SP 0x00000001命令】,{长度=61,类型= 1,序列=30531412118191804346}
+09-08-19 18:04:34 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP 0x00000001命令】,{长度=61,类型= 1,序列=30531412118191804348}
+09-08-19 18:04:38 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP 0x00000003命令】,{长度=168,类型= 3,序列=30531412118191804389}

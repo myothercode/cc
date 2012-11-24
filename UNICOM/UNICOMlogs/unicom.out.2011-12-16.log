@@ -1,0 +1,719 @@
+11-12-16 13:02:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 13:02:15 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 13:02:18 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2558
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 13:03:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 13:03:21 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2560
+11-12-16 13:03:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:03:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:03:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 13:03:21 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161303211}
+11-12-16 13:03:25 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161303252}
+11-12-16 13:03:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:03:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:03:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:03:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:03:25 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161303253}
+11-12-16 13:03:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:03:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:03:52 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121112161303524}
+11-12-16 13:03:52 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-12-16 13:03:52 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 13:09:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2563
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161309131}
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161309132}
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161309133}
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:09:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:09:44 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121112161309444}
+11-12-16 13:09:44 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-12-16 13:09:44 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-12-16 13:10:09 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2565
+11-12-16 13:10:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:10:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:10:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 13:10:09 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161310095}
+11-12-16 13:10:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 13:13:23 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2567
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161313291}
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161313292}
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161313293}
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:13:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:14:00 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121112161314004}
+11-12-16 13:14:00 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-12-16 13:14:00 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2569
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161314105}
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161314106}
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161314107}
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:14:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:14:41 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-2-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121112161314418}
+11-12-16 13:14:41 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-2-thread-1 向SMG发送unbind命令
+11-12-16 13:14:41 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2664
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161338309}
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=3053141211121613383010}
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=3053141211121613383011}
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:38:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 13:56:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2755
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161356251}
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161356252}
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=434,类型= 3,序列=305314121112161356253}
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:56:52 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2758
+11-12-16 13:56:56 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121112161356564}
+11-12-16 13:56:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-12-16 13:56:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2759
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161357105}
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112161357106}
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112161357107}
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 13:57:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 14:20:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:3036
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161420451}
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112161420452}
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112161420453}
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 14:20:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 14:24:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 14:24:51 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:3048
+11-12-16 14:24:51 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Report命令】,{长度=64,类型= 5,序列=10531012161424511}
+11-12-16 14:24:51 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Report命令
+11-12-16 14:24:51 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - ReportType:0
+11-12-16 14:24:51 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 14:24:51 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - State:0
+11-12-16 14:24:51 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - ErrorCode:0
+11-12-16 14:24:51 [INFO ] com.tdt.unicom.domains.ReportResp - 【Thread-4发送SP Report_Resp命令】,{长度=29,类型= -2147483643,序列=10531012161424511}
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 14:34:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:3190
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Bind命令】,{长度=61,类型= 1,序列=10531012161435031}
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:10628365
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:10628365
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-4发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=10531012161435031}
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=83,类型= 4,序列=10531012161435032}
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:testst
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:1234531
+11-12-16 14:35:03 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161435032}
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 16:12:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:4919
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161612431}
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112161612432}
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112161612433}
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 16:12:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 16:13:14 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121112161613144}
+11-12-16 16:13:14 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-12-16 16:13:14 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:4922
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112161615225}
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112161615226}
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112161615227}
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-16 16:15:22 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 16:15:53 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-2-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121112161615538}
+11-12-16 16:15:53 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-2-thread-1 向SMG发送unbind命令
+11-12-16 16:15:53 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-16 19:28:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-16 19:29:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:1050
+11-12-16 19:29:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Bind命令】,{长度=61,类型= 1,序列=10531012161929571}
+11-12-16 19:29:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-16 19:29:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-16 19:29:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:10628365
+11-12-16 19:29:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:10628365
+11-12-16 19:29:58 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-4发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=10531012161929571}
+11-12-16 19:30:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:00 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:02 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:04 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:06 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:08 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:10 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:12 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:14 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:16 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:18 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:20 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:22 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:24 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:26 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:28 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:30 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:32 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:34 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:36 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:38 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:40 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:42 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:44 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:46 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:48 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:50 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:52 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:52 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:52 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:52 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:52 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:52 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:52 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:54 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:54 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:54 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:54 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:54 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:54 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:54 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:56 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:56 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:56 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:56 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:56 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:56 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:56 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:30:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:30:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:30:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:30:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:30:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:30:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:30:58 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:00 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:00 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:02 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:04 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:06 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:08 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:10 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:12 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:14 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:14 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:16 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:18 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:20 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:20 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:22 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:24 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:24 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:26 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:26 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:28 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:30 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:32 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:32 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:34 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:36 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:31:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-4收到SMG Deliver命令】,{长度=85,类型= 4,序列=10531012161929582}
+11-12-16 19:31:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-16 19:31:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-16 19:31:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-16 19:31:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:小黑妞妞
+11-12-16 19:31:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-16 19:31:38 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-4发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=10531012161929582}
+11-12-16 19:32:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+

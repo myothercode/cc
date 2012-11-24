@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>　<!--该dtd定义了业务层向短信接入程序提交短信下发请求时必须提供的参数-->
+<!ELEMENT gwsmip (message_header,message_body)>
+<!ELEMENT message_header (command_id, sequence_number)>
+<!ELEMENT message_body (pk_total, pk_number, user_numbers, sp_number,service_type, message_content, report_flag)>
+<!ELEMENT user_numbers (user_number+)>
+<!ELEMENT command_id (#PCDATA)>
+<!ELEMENT sequence_number (#PCDATA)>
+<!ELEMENT pk_total (#PCDATA)>
+<!ELEMENT pk_number (#PCDATA)>
+<!ELEMENT sp_number (#PCDATA)>
+<!ELEMENT service_type (#PCDATA)>
+<!ELEMENT user_number (#PCDATA)>
+<!ELEMENT message_content (#PCDATA)>
+<!ELEMENT report_flag (#PCDATA)>

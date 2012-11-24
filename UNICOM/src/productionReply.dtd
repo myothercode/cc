@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT replyconf (productconf+)>
+<!ELEMENT productconf (name,spnumber,servicetype,ordercode,orderreplysms,cancelcode,cancelreplysms)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT spnumber (#PCDATA)>
+<!ELEMENT servicetype (#PCDATA)>
+<!ELEMENT ordercode (#PCDATA)>
+<!ELEMENT cancelcode (#PCDATA)>
+<!ELEMENT orderreplysms (#PCDATA)>
+<!ELEMENT cancelreplysms (#PCDATA)>
+

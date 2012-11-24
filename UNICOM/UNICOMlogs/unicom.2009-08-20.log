@@ -1,0 +1,23 @@
+09-08-20 12:02:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-1等待任务
+09-08-20 12:02:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:5 】
+09-08-20 12:02:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-20 12:02:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-3等待任务
+09-08-20 12:02:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-20 12:02:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-20 12:02:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+09-08-20 12:02:58 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:4675
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-3等待任务
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-1获得一个短信下发请求实例】
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-4等待任务
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-3等待任务
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-2等待任务
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-1与SMG建立连接
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP 0x00000001命令】,{长度=61,类型= 1,序列=30531412118201203090}
+09-08-20 12:03:09 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-1发送SP 0x00000001命令】,{长度=61,类型= 1,序列=30531412118201203090}

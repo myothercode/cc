@@ -1,0 +1,49 @@
+09-08-21 10:51:13 [WARN ] com.tdt.unicom.sgip.svr.SPSender - 【Thread-9 发送的MT请求递交到SMG失败!,错误码 0】
+09-08-21 15:38:41 [WARN ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-2 发送的MT请求递交到SMG失败!,错误码 0】
+09-08-21 15:38:41 [WARN ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求递交到SMG失败!,错误码 0】
+09-08-24 14:03:36 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-24 14:22:48 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-24 14:27:03 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-24 14:44:40 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 09:21:37 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 09:25:48 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 10:41:10 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 11:22:07 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 13:40:59 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 连接被拒绝
+java.net.ConnectException: Connection refused: connect
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:519)
+	at java.net.Socket.connect(Socket.java:469)
+	at java.net.Socket.<init>(Socket.java:366)
+	at java.net.Socket.<init>(Socket.java:180)
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:196)
+	at com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler$1.run(UnicomSPMonitor.java:293)
+	at java.lang.Thread.run(Thread.java:619)
+09-08-27 13:45:30 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 14:03:28 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 14:32:26 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 14:59:34 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 15:04:15 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+09-08-27 15:07:57 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 连接被拒绝
+java.net.ConnectException: Connection refused: connect
+	at java.net.PlainSocketImpl.socketConnect(Native Method)
+	at java.net.PlainSocketImpl.doConnect(PlainSocketImpl.java:333)
+	at java.net.PlainSocketImpl.connectToAddress(PlainSocketImpl.java:195)
+	at java.net.PlainSocketImpl.connect(PlainSocketImpl.java:182)
+	at java.net.SocksSocketImpl.connect(SocksSocketImpl.java:366)
+	at java.net.Socket.connect(Socket.java:519)
+	at java.net.Socket.connect(Socket.java:469)
+	at java.net.Socket.<init>(Socket.java:366)
+	at java.net.Socket.<init>(Socket.java:180)
+	at javax.net.DefaultSocketFactory.createSocket(SocketFactory.java:196)
+	at com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler$1.run(UnicomSPMonitor.java:296)
+	at java.lang.Thread.run(Thread.java:619)
+09-08-27 15:10:21 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG关闭通信链路
+11-11-25 17:03:22 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG强制关闭通信链路
+11-12-16 19:32:04 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG强制关闭通信链路
+11-12-18 01:29:56 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG强制关闭通信链路
+11-12-22 15:53:58 [WARN ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG强制关闭通信链路

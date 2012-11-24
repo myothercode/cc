@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: UNICOM
+Bundle-SymbolicName: UNICOM
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: UNICOM.jar,
+ apache-log4j-1.2.15/log4j-1.2.15.jar,
+ javamail-1.4.2/mail.jar,
+ jdom-1.1/build/jdom.jar,
+ jdom-1.1/lib/xerces.jar
+Export-Package: com.tdt.log4j.extend,
+ com.tdt.main,
+ com.tdt.unicom.domains,
+ com.tdt.unicom.sgip.svr,
+ com.tdt.unicom.spsvr,
+ com.tdt.unicom.test

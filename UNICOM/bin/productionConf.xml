@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE replyconf SYSTEM "productionConf.dtd">
+<replyconf>
+	<unicomconf>
+		<ipaddr>127.0.0.1</ipaddr>
+		<addrport>8802</addrport>
+		<spNodeid>3053141211</spNodeid>
+		<spUserName>1062836516</spUserName>
+		<spPassword>1062836516</spPassword>
+	</unicomconf>
+	<productconf>
+		<name>爱车无忧(短信版)</name>
+		<spnumber>1062836516</spnumber>
+		<servicetype>DXAC</servicetype>
+		<transmitip>192.168.0.6</transmitip>
+		<destport>7750</destport>
+	</productconf>
+	<productconf>
+		<name>爱车无忧(WEB版)</name>
+		<spnumber>1062836516</spnumber>
+		<servicetype>WEBAC</servicetype>
+		<transmitip>192.168.0.6</transmitip>
+		<destport>7750</destport>
+	</productconf>
+</replyconf>

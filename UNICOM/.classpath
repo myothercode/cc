@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/myeclipsetemp/javabao/unicomlib/jdom1.1.jar"/>
+	<classpathentry kind="lib" path="D:/myeclipsetemp/javabao/unicomlib/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/myeclipsetemp/javabao/unicomlib/mail.jar"/>
+	<classpathentry kind="lib" path="D:/myeclipsetemp/javabao/unicomlib/xerces.jar"/>
+	<classpathentry kind="lib" path="D:/myeclipsetemp/javabao/unicomlib/xercesImpl.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/j1.6"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

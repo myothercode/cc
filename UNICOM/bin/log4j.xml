@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
+<log4j:configuration xmlns:log4j='http://jakarta.apache.org/log4j/'>
+	<!--输出到控制台-->
+	<appender name="LOG.Console" class="org.apache.log4j.ConsoleAppender">
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyy-MM-dd HH:mm:ss:SSS} [%-5p] %-20c - %m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+			<param name="LevelMin" value="DEBUG" />
+			<param name="LevelMax" value="FATAL" />
+		</filter>
+	</appender>
+	<!--将级别为DEBUG的信息输出到文件-->
+	<appender name="LOG.DEBUG" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="${project.home}/UNICOMlogs/debug.log" />
+		<param name="MaxFileSize" value="5120KB" />
+		<param name="MaxBackupIndex" value="10" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyy-MM-dd HH:mm:ss} [%-5p] %c - %m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+			<param name="LevelMin" value="DEBUG" />
+			<param name="LevelMax" value="DEBUG" />
+		</filter>
+	</appender>
+	<!--将级别为INFO的信息输出到文件-->
+	<appender name="LOG.INFO" class="org.apache.log4j.DailyRollingFileAppender">
+		<param name="File" value="${project.home}/UNICOMlogs/unicom.out" />
+		<param name="DatePattern" value="'.'yyyy-MM-dd'.log'" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyy-MM-dd HH:mm:ss} [%-5p] %c - %m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+			<param name="LevelMin" value="INFO" />
+			<param name="LevelMax" value="INFO" />
+		</filter>
+	</appender>
+	<!--将级别为WARN的信息输出文件-->
+	<appender name="LOG.WARN" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="${project.home}/UNICOMlogs/warn.log" />
+		<param name="MaxFileSize" value="5120KB" />
+		<param name="MaxBackupIndex" value="10" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyy-MM-dd HH:mm:ss} [%-5p] %c - %m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+			<param name="LevelMin" value="WARN" />
+			<param name="LevelMax" value="WARN" />
+		</filter>
+	</appender>
+	<!--将级别为ERROR的信息输出到文件-->
+	<appender name="LOG.ERROR" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="${project.home}/UNICOMlogs/error.log" />
+		<param name="MaxFileSize" value="5120KB" />
+		<param name="MaxBackupIndex" value="10" />
+		<param name="encoding" value="GBK" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyy-MM-dd HH:mm:ss} [%-5p] %c - %m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+			<param name="LevelMin" value="ERROR" />
+			<param name="LevelMax" value="ERROR" />
+		</filter>
+	</appender>
+	<appender name="LOG.SMTP" class="org.apache.log4j.net.SMTPAppender">
+		<param name="from" value="support@tdt-lbs.com" />
+		<param name="to" value="zhangweiyang@tdt-lbs.com" />
+		<param name="subject" value="联通短信接入程序出错" />
+		<param name="SMTPHost" value="58.56.109.6" />
+		<triggeringPolicy
+			class="com.tdt.log4j.extend.MockTriggeringEventEvaluator" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%-5p %c{2} - %m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+			<param name="LevelMin" value="ERROR" />
+			<param name="LevelMax" value="FATAL" />
+		</filter>
+	</appender>
+	<!--将级别为FATAL的信息输出到文件-->
+	<appender name="LOG.FATAL" class="org.apache.log4j.RollingFileAppender">
+		<param name="File" value="${project.home}/UNICOMlogs/fatal.log" />
+		<param name="MaxFileSize" value="5120KB" />
+		<param name="MaxBackupIndex" value="10" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d{yyy-MM-dd HH:mm:ss} [%-5p] %c - %m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+			<param name="LevelMin" value="FATAL" />
+			<param name="LevelMax" value="FATAL" />
+		</filter>
+	</appender>
+	<appender name="LOG.REMIND" class="org.apache.log4j.net.SMTPAppender">
+		<param name="from" value="support@tdt-lbs.com" />
+		<param name="to" value="zhangweiyang@tdt-lbs.com" />
+		<param name="subject" value="联通短信接入信息提示" />
+		<param name="SMTPHost" value="58.56.109.6" />
+		<triggeringPolicy class="com.tdt.log4j.extend.MockTriggeringEventEvaluator" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%m%n" />
+		</layout>
+		<filter class="org.apache.log4j.varia.LevelRangeFilter">
+			<param name="LevelMin" value="REMIND#com.tdt.log4j.extend.TDTLevel" />
+			<param name="LevelMax" value="REMIND#com.tdt.log4j.extend.TDTLevel" />
+		</filter>
+	</appender>
+	<category name="com.tdt">
+		<priority value="DEBUG" />
+		<appender-ref ref="LOG.DEBUG" />
+	</category>
+	<root>
+		<level value="DEBUG"/>
+		<appender-ref ref="LOG.Console" />
+		<appender-ref ref="LOG.INFO" />
+		<appender-ref ref="LOG.WARN" />
+		<appender-ref ref="LOG.ERROR" />
+		<appender-ref ref="LOG.FATAL" />
+		<appender-ref ref="LOG.SMTP" />
+		<appender-ref ref="LOG.REMIND" />
+	</root>
+</log4j:configuration> 

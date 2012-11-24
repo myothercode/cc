@@ -1,0 +1,701 @@
+11-12-22 15:50:02 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-12-22 15:50:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-12-22 15:50:06 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:7251
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:7264
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112221550181}
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112221550182}
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112221550183}
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-22 15:50:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:7266
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112221550314}
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112221550315}
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-22 15:50:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-22 15:50:49 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121112221550496}
+11-12-22 15:50:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-12-22 15:50:49 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:7267
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121112221550567}
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112221550568}
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=188,类型= 3,序列=305314121112221550569}
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-12-22 15:50:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-12-22 15:51:27 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-2-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=3053141211122215512710}
+11-12-22 15:51:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-2-thread-1 向SMG发送unbind命令
+11-12-22 15:51:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-12-22 15:52:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7271
+11-12-22 15:52:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-8收到SMG Bind命令】,{长度=61,类型= 1,序列=105310122215523011}
+11-12-22 15:52:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:52:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:52:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:52:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:52:30 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-8发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=105310122215523011}
+11-12-22 15:52:31 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-8收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523112}
+11-12-22 15:52:31 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:31 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-8发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523112}
+11-12-22 15:52:31 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:33 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7272
+11-12-22 15:52:33 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-9收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523313}
+11-12-22 15:52:33 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:33 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-9发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523313}
+11-12-22 15:52:33 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:33 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7273
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-10收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523414}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-10发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523414}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7274
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-11收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523415}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-11发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523415}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7275
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-12收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523416}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-12发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523416}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7276
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-13收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523417}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-13发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523417}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7277
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-14收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523418}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-14发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523418}
+11-12-22 15:52:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7278
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-15收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523519}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-15发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523519}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7279
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-16收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523520}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-16发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523520}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7280
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-17收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523521}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-17发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523521}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7281
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-18收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523522}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-18发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523522}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7282
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-19收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523523}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-19发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523523}
+11-12-22 15:52:35 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7283
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-20收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523624}
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-20发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523624}
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7284
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-21收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523625}
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-21发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523625}
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7285
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-22收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523626}
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-22发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523626}
+11-12-22 15:52:36 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7286
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-23收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523727}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-23发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523727}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7287
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-24收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523728}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-24发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523728}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7288
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-25收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523729}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-25发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523729}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7289
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-26收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523730}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-26发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523730}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7290
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-27收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523731}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-27发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523731}
+11-12-22 15:52:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7291
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-28收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523832}
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-28发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523832}
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7292
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-29收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523833}
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-29发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523833}
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7293
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-30收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523834}
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-30发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523834}
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7294
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-31收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523835}
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-31发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523835}
+11-12-22 15:52:38 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7295
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-32收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523936}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-32发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523936}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7296
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-33收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523937}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-33发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523937}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7297
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-34收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523938}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-34发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523938}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7298
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-35收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523939}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-35发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523939}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7299
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-36收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215523940}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-36发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215523940}
+11-12-22 15:52:39 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7300
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-37收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524041}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-37发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524041}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7301
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-38收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524042}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-38发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524042}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7302
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-39收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524043}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-39发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524043}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7303
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-40收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524044}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-40发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524044}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7304
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-41收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524045}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-41发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524045}
+11-12-22 15:52:40 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7305
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-42收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524146}
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-42发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524146}
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7306
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-43收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524147}
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-43发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524147}
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7307
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-44收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524148}
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-44发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524148}
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7308
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-45收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524249}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-45发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524249}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7309
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-46收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524250}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-46发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524250}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7310
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-47收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524251}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-47发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524251}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7311
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-48收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524252}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-48发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524252}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7312
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-49收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524253}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-49发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524253}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7313
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-50收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524254}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-50发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524254}
+11-12-22 15:52:42 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7314
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-51收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524355}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-51发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524355}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7315
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-52收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524356}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-52发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524356}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7316
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-53收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524357}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-53发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524357}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7317
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-54收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524358}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-54发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524358}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7318
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-55收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524359}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-55发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524359}
+11-12-22 15:52:43 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7319
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-56收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524460}
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-56发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524460}
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7320
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-57收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524461}
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-57发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524461}
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7321
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-58收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524462}
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-58发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524462}
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7322
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-59收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524463}
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-59发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524463}
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:44 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7323
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-60收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524564}
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-60发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524564}
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7324
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-61收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524565}
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-61发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524565}
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7325
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-62收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524566}
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-62发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524566}
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7326
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-63收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524567}
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-63发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524567}
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7327
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-64收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524568}
+11-12-22 15:52:45 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-64发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524568}
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7328
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-65收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524669}
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-65发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524669}
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7329
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-66收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524670}
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-66发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524670}
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7330
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-67收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524671}
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-67发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524671}
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7331
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-68收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524672}
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-68发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524672}
+11-12-22 15:52:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7332
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-69收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524773}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-69发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524773}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7333
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-70收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524774}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-70发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524774}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7334
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-71收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524775}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-71发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524775}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7335
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-72收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524776}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-72发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524776}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7336
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-73收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524777}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-73发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524777}
+11-12-22 15:52:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7338
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-74收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524878}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-74发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524878}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7339
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-75收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524879}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-75发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524879}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7340
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-76收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524880}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-76发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524880}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7341
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-77收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524881}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-77发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524881}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7342
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-78收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524882}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-78发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524882}
+11-12-22 15:52:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7343
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-79收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524983}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-79发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524983}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7344
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-80收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524984}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-80发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524984}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7345
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-81收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524985}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-81发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524985}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7346
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-82收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524986}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-82发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524986}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7347
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-83收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215524987}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-83发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215524987}
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:49 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7348
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-84收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215525088}
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-84发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215525088}
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7349
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-85收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215525089}
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-85发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215525089}
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7350
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-86收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215525090}
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-86发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215525090}
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7351
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-87收到SMG Unbind命令】,{长度=20,类型= 2,序列=105310122215525091}
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-87发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=105310122215525091}
+11-12-22 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7352
+11-12-22 15:53:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Bind命令】,{长度=61,类型= 1,序列=105310122215530192}
+11-12-22 15:53:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:53:01 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:53:01 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-88发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=105310122215530192}
+11-12-22 15:53:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Bind命令】,{长度=61,类型= 1,序列=105310122215530493}
+11-12-22 15:53:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:53:04 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:53:04 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-88发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=105310122215530493}
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Bind命令】,{长度=61,类型= 1,序列=105310122215530594}
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-88发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=105310122215530594}
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Bind命令】,{长度=61,类型= 1,序列=105310122215530595}
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-88发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=105310122215530595}
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Bind命令】,{长度=61,类型= 1,序列=105310122215530596}
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-88发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=105310122215530596}
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Bind命令】,{长度=61,类型= 1,序列=105310122215530597}
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:53:05 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-88发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=105310122215530597}
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Bind命令】,{长度=61,类型= 1,序列=105310122215530698}
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-88发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=105310122215530698}
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Bind命令】,{长度=61,类型= 1,序列=105310122215530699}
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-88发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=105310122215530699}
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Bind命令】,{长度=61,类型= 1,序列=1053101222155306100}
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-12-22 15:53:06 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-88发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=1053101222155306100}
+11-12-22 15:53:07 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-88收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155307101}
+11-12-22 15:53:07 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:07 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-88发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155307101}
+11-12-22 15:53:07 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:07 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7353
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-89收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155308102}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-89发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155308102}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7354
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-90收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155308103}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-90发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155308103}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7355
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-91收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155308104}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-91发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155308104}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7356
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-92收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155308105}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-92发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155308105}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7357
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-93收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155308106}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-93发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155308106}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7358
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-94收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155308107}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-94发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155308107}
+11-12-22 15:53:08 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7359
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-95收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155309108}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-95发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155309108}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7360
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-96收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155309109}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-96发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155309109}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7361
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-97收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155309110}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-97发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155309110}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7362
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-98收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155309111}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-98发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155309111}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7363
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-99收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155309112}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-99发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155309112}
+11-12-22 15:53:09 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7364
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-100收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155310113}
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-100发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155310113}
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7365
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-101收到SMG Unbind命令】,{长度=20,类型= 2,序列=1053101222155310114}
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Unbind命令
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.domains.UnbindResp - 【Thread-101发送SP Unbind_Resp命令】,{长度=20,类型= -2147483646,序列=1053101222155310114}
+11-12-22 15:53:10 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:7367
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-102收到SMG Bind命令】,{长度=61,类型= 1,序列=1053101222155330115}
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:10628365
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:10628365
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-102发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=1053101222155330115}
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-102收到SMG Deliver命令】,{长度=101,类型= 4,序列=1053101222155330116}
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Deliver命令
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SPNumber:8618721773206
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - UserNumber:8618721773206
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - MessageContent:tetstst 这是一个网络测试
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LinkID:00000000
+11-12-22 15:53:30 [INFO ] com.tdt.unicom.domains.DeliverResp - 【Thread-102发送SP Deliver_Resp命令】,{长度=29,类型= -2147483644,序列=1053101222155330116}
+11-12-22 15:53:58 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+

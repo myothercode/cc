@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE replyconf SYSTEM "productionReply.dtd">
+<replyconf>
+	<productconf>
+		<name>爱车无忧(短信版)</name>
+		<spnumber>1062836516</spnumber>
+		<servicetype>DXAC</servicetype>
+		<ordercode>DZDXAC</ordercode>
+		<orderreplysms>欢迎使用天地通爱车无忧（短信版）业务,包月3元,不含通信费,退订发QXDXAC至1062836516,询0531-88889589</orderreplysms>
+		<cancelcode>QXDXAC</cancelcode>
+		<cancelreplysms>爱车无忧（短信版）业务取消成功!欢迎您再次使用,订制发DZDXAC至1062836516,包月3元.天地通客服电话:0531-88889589</cancelreplysms>
+	</productconf>
+	<productconf>
+		<name>爱车无忧(WEB版)</name>
+		<spnumber>1062836516</spnumber>
+		<servicetype>WEBAC</servicetype>
+		<ordercode>DZWEBAC</ordercode>
+		<orderreplysms>欢迎使用天地通爱车无忧（WEB版）业务,包月10元,不含通信费,退订发QXWEBAC至1062836516,询0531-88889589</orderreplysms>
+		<cancelcode>QXWEBAC</cancelcode>
+		<cancelreplysms>爱车无忧（WEB版）取消成功!欢迎您再次使用,订制发DZWEBAC#密码至1062836516,包月10元.天地通客服电话:0531-88889589</cancelreplysms>
+	</productconf>
+</replyconf>

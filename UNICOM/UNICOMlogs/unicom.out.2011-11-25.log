@@ -1,0 +1,696 @@
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  119.164.63.65:8801
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 14:56:57 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  119.164.63.65:8801
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 14:59:46 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 14:59:53 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:1343
+11-11-25 14:59:53 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 14:59:53 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 14:59:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 14:59:56 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251459561}
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  119.164.63.65:8801
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 15:18:41 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 15:24:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:1999
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251524561}
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251524562}
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251524563}
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-11-25 15:24:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 15:25:27 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121111251525274}
+11-11-25 15:25:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-11-25 15:25:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 15:32:12 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2017
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251532171}
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251532172}
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251532173}
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-11-25 15:32:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 15:32:48 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121111251532484}
+11-11-25 15:32:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-11-25 15:32:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - SMG收到unbind命令，SP关闭连接
+11-11-25 15:33:07 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 15:33:07 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:33:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:33:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 15:34:00 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:34:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:34:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:2
+11-11-25 15:34:54 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:4
+11-11-25 15:34:54 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:35:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:35:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:4
+11-11-25 15:35:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:35:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:5
+11-11-25 15:36:15 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:36:15 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:6
+11-11-25 15:36:41 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:36:41 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:7
+11-11-25 15:37:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:37:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:8
+11-11-25 15:37:36 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:37:36 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:9
+11-11-25 15:38:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:38:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:10
+11-11-25 15:38:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:38:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:11
+11-11-25 15:38:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:38:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:12
+11-11-25 15:39:23 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:39:23 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:13
+11-11-25 15:39:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:39:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:14
+11-11-25 15:40:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:40:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:15
+11-11-25 15:40:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:40:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:16
+11-11-25 15:41:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:41:10 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:17
+11-11-25 15:41:37 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:41:37 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:18
+11-11-25 15:42:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:42:04 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:19
+11-11-25 15:42:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:42:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:20
+11-11-25 15:42:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:42:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:21
+11-11-25 15:43:26 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:43:26 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:22
+11-11-25 15:43:52 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:43:52 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:23
+11-11-25 15:44:19 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:44:19 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:24
+11-11-25 15:44:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:44:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:25
+11-11-25 15:45:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:45:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:26
+11-11-25 15:45:40 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:45:40 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:27
+11-11-25 15:46:06 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:46:06 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:28
+11-11-25 15:46:33 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:46:33 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:29
+11-11-25 15:47:00 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:47:00 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:30
+11-11-25 15:47:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:31
+11-11-25 15:47:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:47:54 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:47:54 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:32
+11-11-25 15:48:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:33
+11-11-25 15:48:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:48:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:48:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:34
+11-11-25 15:49:15 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:49:15 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:35
+11-11-25 15:49:42 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:37
+11-11-25 15:49:42 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:50:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:50:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:37
+11-11-25 15:50:36 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:50:36 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:38
+11-11-25 15:51:02 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:51:02 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:39
+11-11-25 15:51:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:51:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:40
+11-11-25 15:51:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:51:56 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:41
+11-11-25 15:52:23 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:52:23 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:42
+11-11-25 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:52:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:43
+11-11-25 15:53:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:53:17 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:44
+11-11-25 15:53:44 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:53:44 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:45
+11-11-25 15:54:11 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:54:11 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:46
+11-11-25 15:54:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:54:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:47
+11-11-25 15:55:05 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:55:05 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:48
+11-11-25 15:55:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:55:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:49
+11-11-25 15:55:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:55:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:50
+11-11-25 15:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:56:25 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:51
+11-11-25 15:56:52 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:56:52 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:52
+11-11-25 15:57:19 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:57:19 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:53
+11-11-25 15:57:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:57:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:54
+11-11-25 15:58:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:58:13 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:55
+11-11-25 15:58:40 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:58:40 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:56
+11-11-25 15:59:07 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:59:07 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:57
+11-11-25 15:59:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 15:59:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:58
+11-11-25 16:00:01 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:00:01 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:59
+11-11-25 16:00:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:00:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:60
+11-11-25 16:00:54 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:00:54 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:61
+11-11-25 16:01:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:01:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:62
+11-11-25 16:01:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:01:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:63
+11-11-25 16:02:15 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:02:15 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:64
+11-11-25 16:02:42 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:02:42 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:65
+11-11-25 16:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:03:09 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:66
+11-11-25 16:03:36 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:03:36 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:67
+11-11-25 16:04:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:04:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:68
+11-11-25 16:04:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:04:30 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:69
+11-11-25 16:04:57 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:04:57 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:70
+11-11-25 16:05:23 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:05:23 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:71
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:72
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251605505}
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:73
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:74
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:75
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:76
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:77
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:78
+11-11-25 16:05:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:79
+11-11-25 16:06:08 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2422
+11-11-25 16:06:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:80
+11-11-25 16:06:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:81
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 16:06:29 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 16:06:43 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2425
+11-11-25 16:06:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:06:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:06:43 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 16:06:43 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251606431}
+11-11-25 16:06:43 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251606432}
+11-11-25 16:06:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-11-25 16:06:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 16:06:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:06:45 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:06:45 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251606453}
+11-11-25 16:06:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-11-25 16:06:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 16:27:47 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2557
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251627501}
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251627502}
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251627503}
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0 发送的MT请求成功递交到SMG 】
+11-11-25 16:27:50 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 16:48:18 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 16:48:24 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2602
+11-11-25 16:48:24 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:48:24 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:48:24 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 16:48:24 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251648241}
+11-11-25 16:48:24 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251648242}
+11-11-25 16:48:42 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 16:55:34 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 16:55:38 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2624
+11-11-25 16:55:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:55:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:55:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 16:55:38 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251655381}
+11-11-25 16:55:38 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251655382}
+11-11-25 16:55:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:56:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:2
+11-11-25 16:56:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:3
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 16:57:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 16:57:06 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2628
+11-11-25 16:57:06 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:57:06 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 16:57:06 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 16:57:06 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251657061}
+11-11-25 16:57:06 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251657062}
+11-11-25 16:57:37 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121111251657373}
+11-11-25 16:57:37 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-11-25 16:57:57 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 16:57:57 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:2
+11-11-25 16:57:57 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:3
+11-11-25 16:58:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:4
+11-11-25 16:58:46 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:5
+11-11-25 16:59:36 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:6
+11-11-25 16:59:36 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:7
+11-11-25 17:00:26 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:8
+11-11-25 17:00:26 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:9
+11-11-25 17:01:16 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:10
+11-11-25 17:01:16 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:11
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 17:01:28 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 17:01:31 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2637
+11-11-25 17:01:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:01:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 17:01:31 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 17:01:31 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251701311}
+11-11-25 17:01:31 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251701312}
+11-11-25 17:01:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:02:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:2
+11-11-25 17:02:21 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:3
+11-11-25 17:03:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - New connection accepted from /127.0.0.1:2644
+11-11-25 17:03:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 【Thread-5收到SMG Bind命令】,{长度=61,类型= 1,序列=10531011251703111}
+11-11-25 17:03:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - 收到SMG ->Bind命令
+11-11-25 17:03:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginType:2
+11-11-25 17:03:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginName:tdtlbs
+11-11-25 17:03:11 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:4
+11-11-25 17:03:11 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - LoginPassword:tdtlbs
+11-11-25 17:03:11 [INFO ] com.tdt.unicom.domains.BindResp - 【Thread-5发送SP Bind_Resp命令】,{长度=29,类型= -2147483647,序列=10531011251703111}
+11-11-25 17:03:11 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:5
+11-11-25 17:03:22 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor$Handler - SMG与SP通信结束,链路关闭.
+
+11-11-25 17:04:01 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:6
+11-11-25 17:04:01 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:7
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 17:04:53 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 17:05:08 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2650
+11-11-25 17:05:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:05:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 17:05:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 17:05:08 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251705081}
+11-11-25 17:05:08 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251705082}
+11-11-25 17:05:27 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 17:07:03 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 17:07:07 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2655
+11-11-25 17:07:07 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:07:07 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 17:07:07 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 17:07:07 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251707071}
+11-11-25 17:07:07 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251707072}
+11-11-25 17:07:32 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 17:07:59 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 17:08:02 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2659
+11-11-25 17:08:02 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:08:02 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 17:08:02 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 17:08:02 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251708021}
+11-11-25 17:08:02 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251708022}
+11-11-25 17:08:34 [INFO ] com.tdt.unicom.domains.Unbind - 【pool-1-thread-1发送SP Unbind命令】,{长度=20,类型= 2,序列=305314121111251708343}
+11-11-25 17:08:34 [INFO ] com.tdt.unicom.sgip.svr.SPSender - pool-1-thread-1 向SMG发送unbind命令
+11-11-25 17:08:39 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:08:52 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:2
+11-11-25 17:08:52 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:3
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 17:09:37 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 17:09:47 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2664
+11-11-25 17:09:47 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:09:47 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 17:09:47 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 17:09:47 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251709471}
+11-11-25 17:09:47 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251709472}
+11-11-25 17:09:54 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\IDE Workspace\eclipse\UNICOM\productipconfig.xml
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 配置联通SMG地址  127.0.0.1:8802
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 转发配置结束  ********************
+11-11-25 17:10:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+11-11-25 17:10:18 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - New connection accepted/127.0.0.1:2667
+11-11-25 17:10:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:10:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【MT-thread-0获得一个短信下发请求实例】
+11-11-25 17:10:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0与SMG建立连接
+11-11-25 17:10:18 [INFO ] com.tdt.unicom.domains.Bind - 【MT-thread-0发送SP Bind命令】,{长度=61,类型= 1,序列=305314121111251710181}
+11-11-25 17:10:18 [INFO ] com.tdt.unicom.domains.Submit - 【MT-thread-0发送SP Submit命令】,{长度=168,类型= 3,序列=305314121111251710182}
+11-11-25 17:10:24 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:1
+11-11-25 17:11:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:2
+11-11-25 17:11:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:3
+11-11-25 17:11:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:4
+11-11-25 17:11:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:5
+11-11-25 17:12:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:6
+11-11-25 17:12:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:7
+11-11-25 17:13:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:8
+11-11-25 17:13:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:9
+11-11-25 17:14:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:10
+11-11-25 17:14:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:11
+11-11-25 17:15:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:12
+11-11-25 17:15:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:13
+11-11-25 17:16:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:14
+11-11-25 17:16:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:15
+11-11-25 17:16:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:16
+11-11-25 17:16:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:17
+11-11-25 17:17:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:18
+11-11-25 17:17:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:19
+11-11-25 17:18:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:20
+11-11-25 17:18:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:21
+11-11-25 17:19:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:22
+11-11-25 17:19:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:23
+11-11-25 17:20:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:24
+11-11-25 17:20:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:25
+11-11-25 17:21:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:26
+11-11-25 17:21:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:27
+11-11-25 17:21:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:28
+11-11-25 17:21:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:29
+11-11-25 17:22:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:30
+11-11-25 17:22:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:31
+11-11-25 17:23:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:32
+11-11-25 17:23:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:33
+11-11-25 17:24:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:34
+11-11-25 17:24:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:35
+11-11-25 17:25:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:36
+11-11-25 17:25:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:37
+11-11-25 17:26:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:38
+11-11-25 17:26:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:39
+11-11-25 17:26:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:40
+11-11-25 17:26:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:41
+11-11-25 17:27:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:42
+11-11-25 17:27:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:43
+11-11-25 17:28:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:44
+11-11-25 17:28:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:45
+11-11-25 17:29:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:46
+11-11-25 17:29:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:47
+11-11-25 17:30:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:48
+11-11-25 17:30:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:49
+11-11-25 17:31:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:50
+11-11-25 17:31:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:51
+11-11-25 17:31:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:52
+11-11-25 17:31:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:53
+11-11-25 17:32:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:54
+11-11-25 17:32:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:55
+11-11-25 17:33:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:56
+11-11-25 17:33:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:57
+11-11-25 17:34:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:58
+11-11-25 17:34:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:59
+11-11-25 17:35:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:60
+11-11-25 17:35:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:61
+11-11-25 17:36:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:62
+11-11-25 17:36:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:63
+11-11-25 17:36:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:64
+11-11-25 17:36:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:65
+11-11-25 17:37:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:66
+11-11-25 17:37:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:67
+11-11-25 17:38:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:68
+11-11-25 17:38:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:69
+11-11-25 17:39:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:70
+11-11-25 17:39:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:71
+11-11-25 17:40:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:72
+11-11-25 17:40:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:73
+11-11-25 17:41:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:74
+11-11-25 17:41:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:75
+11-11-25 17:41:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:76
+11-11-25 17:41:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:77
+11-11-25 17:42:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:78
+11-11-25 17:42:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:79
+11-11-25 17:43:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:80
+11-11-25 17:43:38 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:81
+11-11-25 17:44:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:82
+11-11-25 17:44:28 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:83
+11-11-25 17:45:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:84
+11-11-25 17:45:18 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:85
+11-11-25 17:46:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:86
+11-11-25 17:46:08 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:87
+11-11-25 17:46:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:88
+11-11-25 17:46:58 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:89
+11-11-25 17:47:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:90
+11-11-25 17:47:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 收到MT下发请求，当前队列数:91

@@ -1,0 +1,18 @@
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\workspace\eclipseworkspace\UNICOM\productipconfig.xml
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - ***************** 加载转发配置  ********************
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(短信版)
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:DXAC
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 产品名称:爱车无忧(WEB版)
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务商号:1062836516
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 服务代码:WEBAC
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 转发地址:192.168.0.6:7750
+
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - *****************   配置结束      ********************
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
+09-08-31 16:29:48 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - MO-Thread-1等待任务

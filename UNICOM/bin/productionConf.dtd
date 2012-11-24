@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT replyconf (unicomconf,productconf+)>
+<!ELEMENT unicomconf (ipaddr,addrport,spNodeid,spUserName,spPassword)>
+<!ELEMENT ipaddr (#PCDATA)>
+<!ELEMENT addrport (#PCDATA)>
+<!ELEMENT productconf (name,spnumber,servicetype,transmitip,destport)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT spnumber (#PCDATA)>
+<!ELEMENT servicetype (#PCDATA)>
+<!ELEMENT transmitip (#PCDATA)>
+<!ELEMENT destport (#PCDATA)>

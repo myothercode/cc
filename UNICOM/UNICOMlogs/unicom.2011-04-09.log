@@ -1,0 +1,5 @@
+11-04-09 10:14:55 [INFO ] com.tdt.unicom.sgip.svr.SPSender - 【 MT下发线程启动，线程数:1 】
+11-04-09 10:14:55 [INFO ] com.tdt.unicom.sgip.svr.SPSender - MT-thread-0等待任务
+11-04-09 10:14:55 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 操作系统名称:Windows XP,配置文件路径:E:\技术文档\TDT源码\UNICOM\UNICOM\productipconfig.xml
+11-04-09 10:14:55 [INFO ] com.tdt.unicom.spsvr.ClientReqMonitor - 业务请求服务端启动,监听端口:8805
+11-04-09 10:15:16 [INFO ] com.tdt.unicom.sgip.svr.UnicomSPMonitor - 本地unicom服务端启动,监听端口:8801
