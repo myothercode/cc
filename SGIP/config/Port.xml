@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LoginServer>
+   
+   <LoginServerPort>3380</LoginServerPort>
+   
+   
+   <!--预登陆服务器ip地址-->
+   <PreLoginServerIP>192.168.1.9</PreLoginServerIP>
+   
+   <!--预登陆服务器端口-->
+   <PreLoginServerPort>6355</PreLoginServerPort>
+   
+   <!-- 主服务器的ip 地址 -->
+   <IMServerIP>192.168.1.9</IMServerIP>
+   
+   <!-- 主服务器的通讯端口 地址 -->
+   <IMServerPort>3389</IMServerPort>
+   
+</LoginServer>
